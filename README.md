@@ -9,4 +9,4 @@ Just starting in any language, had a previous experience with HTML & CSS thats i
 
 So don't be shy and propose commits or anything, Thanks.
 
-Maxime "nare" P.
+<b>Maxime "nare" P.</b>
